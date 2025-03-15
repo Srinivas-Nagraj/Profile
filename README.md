@@ -6,7 +6,7 @@
 ![GitHub Banner](https://source.unsplash.com/1600x400/?technology,data,ai)  
 
 ### 🔥 About Me  
-- 🎓 **Data Scientist** passionate about Machine Learning, AI, and NLP.  
+- 🎓 **Data Scientist** passionate about Machine Learning, AI,DL and NLP.  
 - 📊 **Expert in Python, TensorFlow, and Data Analytics**.  
 - 📈 **Loves working with Big Data, Deep Learning, and AI-driven solutions**.  
 
