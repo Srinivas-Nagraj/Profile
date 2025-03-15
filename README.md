@@ -7,9 +7,9 @@
 
 ### 🔥 About Me  
 - 🎓 **Data Scientist** passionate about Machine Learning, AI, and NLP.  
-- 📊 **Expert in Python, TensorFlow, PyTorch, and Data Analytics**.  
+- 📊 **Expert in Python, TensorFlow, and Data Analytics**.  
 - 📈 **Loves working with Big Data, Deep Learning, and AI-driven solutions**.  
-- 🚀 **Contributor to Open-Source AI Projects & Kaggle Enthusiast**.  
+
 
 ---
 
