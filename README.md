@@ -22,9 +22,9 @@
 ---
 
 ### 📂 Featured Projects  
-🔹 **[AI-Based Meeting Summarizer](https://github.com/Srinivas-N/AI-Meeting-Summarizer)** - NLP-powered system for extracting insights from meetings.  
-🔹 **[Movie recommendation system](https://github.com/Srinivas-N/Stock-Prediction)** - Recommends movies based on content and collaborative filtering.  
-🔹 **[cat vs dog classification](https://github.com/Srinivas-N/Churn-Prediction)** - CNN model to predict whether the given image contains dog or a cat.  
+🔹 **[AI-Based Meeting Summarizer]((https://github.com/Srinivas-Nagraj/AI-Meeting-Summarizer))** - NLP-powered system for extracting insights from meetings.  
+🔹 **[Movie recommendation system]((https://github.com/Srinivas-Nagraj/Movie_recommendation_system))** - Recommends movies based on content and collaborative filtering.  
+🔹 **[cat vs dog classification]((https://github.com/Srinivas-Nagraj/cat-vs-dog-classifier))** - CNN model to predict whether the given image contains dog or a cat.  
 
 
 ---
