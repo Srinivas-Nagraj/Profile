@@ -24,7 +24,8 @@
 ### 📂 Featured Projects  
 🔹 **[AI-Based Meeting Summarizer]((https://github.com/Srinivas-Nagraj/AI-Meeting-Summarizer))** - NLP-powered system for extracting insights from meetings.  
 🔹 **[Movie recommendation system]((https://github.com/Srinivas-Nagraj/Movie_recommendation_system))** - Recommends movies based on content and collaborative filtering.  
-🔹 **[cat vs dog classification]((https://github.com/Srinivas-Nagraj/cat-vs-dog-classifier))** - CNN model to predict whether the given image contains dog or a cat.  
+🔹 **[Cat vs Dog classification]((https://github.com/Srinivas-Nagraj/cat-vs-dog-classifier))** - CNN model to predict whether the given image contains dog or a cat.  
+🔹 **[Spam Email classification]((https://github.com/Srinivas-Nagraj/Spam_Email_Classification))** - ML model which can classify spam email using NLP techniques. 
 
 
 ---
