@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Srinivas N!  
 ### 🚀 Data Scientist | AI & ML Engineer  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,data,ai)  
+ 
 
 ### 🔥 About Me  
 - 🎓 **Data Scientist** passionate about Machine Learning, AI,DL and NLP.  
@@ -32,7 +32,7 @@
 
 ### 📫 Connect with Me  
 🔗 [LinkedIn](www.linkedin.com/in/srinivas-n-31b58a269)  
-📧 Email: srinivasnagraj1209@example.com  
+📧 Email: srinivasnagraj1209@gmail.com  
 
 ---
 
