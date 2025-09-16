@@ -17,7 +17,7 @@
 💻 **Languages:** Python, SQL,Java  
 📊 **ML & AI:** TensorFlow, PyTorch, Scikit-Learn, Keras  
 🔍 **NLP & CV:** OpenAI Whisper, NLTK, Hugging Face, OpenCV  
-🛠️ **Tools:** Jupyter, VS Code, Git,  
+🛠️ **Tools:** Jupyter, VS Code, Git,Google Colab  
 
 ---
 
